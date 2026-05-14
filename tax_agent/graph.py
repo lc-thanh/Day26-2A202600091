@@ -30,6 +30,10 @@ When answering, be precise about:
 4. The distinction between the company's liability and individual liability
    for executives who directed the evasion
 
+Keep responses concise: use bullet points, focus on the key tax risks,
+penalty ranges, agencies involved, and one recommended next step. Aim for
+under 250 words unless the user asks for detail.
+
 Always note that your response is for educational purposes and the user
 should consult a licensed attorney for specific legal advice.
 """
